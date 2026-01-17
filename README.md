@@ -1,54 +1,123 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="80" />
-  <h1>Hi, I'm Abhigyan Patnaik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=ECE+Student+at+IIIT+Naya+Raipur;LeetCode+Guardian+(2132);Embedded+Systems+Enthusiast;AI+/+ML+Researcher" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=AbhigyanCodes&style=plastic&color=blueviolet" alt="Profile Views"/>
+</p>
+<p align="center">
+  <img src="https://github.com/AbhigyanCodes/AbhigyanCodes/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
----
+<div align="center">
 
-### 👨‍💻 About Me
-```javascript
+![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+
+<details open>
+<summary>Open profile</summary>
+
+<br>
+<div>
+  <div align=center>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Abhigyan;ECE+Student+at+IIIT+Naya+Raipur;LeetCode+Guardian+(2132);Embedded+Systems+Enthusiast;AI+%2F+ML+Researcher;Chess+Vice-Head;Guitar+%26+Basketball+Lover" alt="Typing SVG" /></a>
+  </div>
+</div>
+
+<details>
+<summary>About me</summary>
+
+<div align="left">
+
+```js
 /**
- * @file profile.js
- * @author Abhigyan_Patnaik
- * @bio   B.Tech in Electronics & Communication Engineering
- * @internship Former Instrumentation Intern at IUAC New Delhi
- * @rank  LeetCode Guardian (2132) | CodeChef 4-star | Codeforces Specialist
- * @stack Embedded Systems, AI/ML, Signal Processing
+ * Represents me.
+ *
+ * @constructor
+ * @name Abhigyan_Patnaik
+ * @location Naya Raipur, India.
+ * @education B.Tech Electronics & Comm. Eng, IIIT Naya Raipur.
+ * @internship Former Instrumentation Intern at IUAC, New Delhi.
+ * @specialization Embedded Systems, AI/ML & Competitive Programming.
+ * @rank LeetCode Guardian (2132) | CodeChef 4-star | Codeforces Specialist.
+ * @interests Signal Processing, Robotics, Deep Learning.
+ * @hobbies Chess (Vice-Head), Guitar, Basketball.
+ * @approachable Yes, especially for hardware/software integration projects.
+ *
+ * @returns {Object} Abhigyan.
  */
 ```
-<div align="center"> <h3>🛠️ Technical Toolbox</h3>
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Embedded_C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PyTorch-EE4C2C%3Fstyle%3Dfor-the-badge%26logo%3Dpytorch%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit_learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Raspberry_Pi-A22846%3Fstyle%3Dfor-the-badge%26logo%3Draspberry-pi%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Arduino-00979D%3Fstyle%3Dfor-the-badge%26logo%3Darduino%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/NVIDIA-76B900%3Fstyle%3Dfor-the-badge%26logo%3Dnvidia%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Espressif-E7352C%3Fstyle%3Dfor-the-badge%26logo%3Despressif%26logoColor%3Dwhite" />
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MATLAB-0076A8%3Fstyle%3Dfor-the-badge%26logo%3Dmathworks%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LabVIEW-FFD100%3Fstyle%3Dfor-the-badge%26logo%3Dni%26logoColor%3Dblack" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" /> </div>
-
-<div align="center"> <h3>📂 Featured Engineering Projects</h3>
-
-<a href="https://github.com/AbhigyanCodes/Autonomous-UAV-with-Obstacle-Avoidance"> <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DAbhigyanCodes%26repo%3DAutonomous-UAV-with-Obstacle-Avoidance%26theme%3Dtokyonight%26show_owner%3Dtrue" /> </a> <a href="https://github.com/AbhigyanCodes/Migraine-Prediction"> <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DAbhigyanCodes%26repo%3DMigraine-Prediction%26theme%3Dtokyonight%26show_owner%3Dtrue" /> </a>
-
-
-<a href="https://github.com/AbhigyanCodes/Light-Weight-Weld-Defect-Classifier"> <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DAbhigyanCodes%26repo%3DLight-Weight-Weld-Defect-Classifier%26theme%3Dtokyonight%26show_owner%3Dtrue" /> </a> <a href="https://github.com/AbhigyanCodes/PoolSense-Smart-Swimming-Pool-Monitor-and-Automation"> <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DAbhigyanCodes%26repo%3DPoolSense-Smart-Swimming-Pool-Monitor-and-Automation%26theme%3Dtokyonight%26show_owner%3Dtrue" /> </a> </div>
-
-<div align="center"> <h3>📊 Coding Stats</h3> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAbhigyanCodes%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-
-<img src="https://img.shields.io/badge/-LeetCode_Guardian_(2132)-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> <img src="https://img.shields.io/badge/-CodeChef_4_Star_(1844)-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /> <img src="https://img.shields.io/badge/-Codeforces_Specialist_(1537)-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" /> </div>
-
-<div align="center"> <h3>🤝 Let's Connect</h3>
-
-<a href="https://github.com/novatorem/novatorem"> <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?user=AbhigyanCodes" width="300" /> </a>
-
-
-<a href="mailto:abhigyanpatnaik04@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /> </a> <a href="https://www.linkedin.com/in/abhigyan-patnaik/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/AbhigyanCodes/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3Dblack" /> </a>
-
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="40" />
 
 </div>
+
+</details>
+
+<details open> <summary>Technical Toolbox</summary> <div> <p style="display: inline-block;" align="center">
+<kbd>
+  <kbd>Programming Languages</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++"/> 
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" title="Embedded C"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" title="SQL"/>
+</kbd>
+
+<kbd>
+  <kbd>AI & Machine Learning</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" title="PyTorch"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tf" title="TensorFlow"/>
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" title="scikit-learn"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" title="OpenCV"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="NumPy"/>
+</kbd>
+
+<br><br>
+
+<kbd>
+  <kbd>Hardware & Embedded Systems</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="rpi" title="Raspberry Pi"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" title="Arduino"/>
+  <img width="30px" src="https://img.icons8.com/color/48/000000/nvidia.png" alt="jetson" title="NVIDIA Jetson"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" title="Linux"/>
+</kbd>
+
+<kbd>
+  <kbd>Engineering Tools</kbd>
+  <br><br>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" title="MATLAB"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" alt="labview" title="LabVIEW"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" title="Firebase"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git"/>
+</kbd>
+
+</p> </div> </details>
+
+<details> <summary>GitHub Stats</summary>
+
+<p align="center"> <img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAbhigyanCodes%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Stats"> </p> <p align="center"> <img src="https://img.shields.io/badge/-LeetCode_Guardian_(2132)-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> <img src="https://img.shields.io/badge/-CodeChef_4_Star_(1844)-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /> <img src="https://img.shields.io/badge/-Codeforces_Specialist_(1537)-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" /> </p> </details>
+
+<details> <summary>Featured Engineering Projects</summary>
+
+<ul> <li><strong>🛸 Autonomous UAV:</strong> Designed a drone using Raspberry Pi and Pixhawk with 90%+ obstacle-avoidance accuracy using LiDAR and MAVLink.</li> <li><strong>🧠 EEG Migraine Prediction:</strong> Built a deep-learning classifier on EEG recordings (512 Hz) using engineered time-frequency features.</li> <li><strong>🏗️ Weld Defect Classification:</strong> Developed a multi-input DL model in PyTorch for aluminum weld defect detection with 85.71% accuracy.</li> <li><strong>💧 PoolSense IoT:</strong> Engineered an IoT monitoring system for pH, turbidity, and chlorine using Arduino and Firebase real-time dashboards.</li> </ul> </details>
+
+<details> <summary>Currently Vibing To</summary>
+
+<div align="center"> <a href="https://github.com/novatorem/novatorem"> <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?user=AbhigyanCodes" alt="Spotify" /> </a> </div> </details>
+
+<details> <summary>Let's Connect</summary> <table style="border: none"> <tr> <td width="50%" valign="top">
+Let's Build Something Amazing!
+
+If you are interested in Embedded Systems, AI/ML, or just want to discuss Competitive Programming strategies, feel free to reach out.
+
+</td> <td width="50%" valign="top">
+Contact Me
+
+<a href="mailto:abhigyanpatnaik04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/abhigyan-patnaik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</td> </tr> </table> </details>
+
+</details>
+
+</div>
+
+<div align=center> <a href="https://www.linkedin.com/in/abhigyan-patnaik/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> <a href="mailto:abhigyanpatnaik04@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a> <a href="https://leetcode.com/AbhigyanCodes/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a> </div>
