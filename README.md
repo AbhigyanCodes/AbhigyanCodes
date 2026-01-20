@@ -134,4 +134,10 @@ Contact Me
 
 </div>
 
-<div align=center> <a href="https://www.linkedin.com/in/abhigyan-patnaik/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> <a href="mailto:abhigyanpatnaik04@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a> <a href="https://leetcode.com/AbhigyanCodes/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a> </div>
+ ## Let's Connect
+<p align="center">
+    <a href="mailto:abhigyanpatnaik9@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+    <a href="https://github.com/AbhigyanCodes"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+    <a href="https://linkedin.com/in/abhigyan-patnaik/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+    <a href="https://leetcode.com/Sudo_Sorcerer/"><img src="https://img.icons8.com/?size=45&id=9L16NypUzu38&format=png&color=000000" alt="LeetCode"/></a>
+</p> 
