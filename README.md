@@ -118,6 +118,8 @@ Contact Me
 
 </details>
 
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
 </div>
 
 <div align=center> <a href="https://www.linkedin.com/in/abhigyan-patnaik/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> <a href="mailto:abhigyanpatnaik04@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a> <a href="https://leetcode.com/AbhigyanCodes/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a> </div>
