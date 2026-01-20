@@ -102,6 +102,18 @@
 
 <div align="center"> <a href="https://github.com/novatorem/novatorem"> <img src="https://novatorem-spotify-readme.vercel.app/api/now-playing?user=AbhigyanCodes" alt="Spotify" /> </a> </div> </details>
 
+<details> <summary>Quote</summary>
+
+<blockquote> “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
+
+<strong>Mr. Robot - Elliot Alderson</strong> </blockquote> </details>
+
+<details> <summary>Free DOSE hit</summary>
+
+<div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div> </details>
+
+</details>
+
 <details> <summary>Let's Connect</summary> <table style="border: none"> <tr> <td width="50%" valign="top">
 Let's Build Something Amazing!
 
