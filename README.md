@@ -49,7 +49,7 @@
 
 </details>
 
-<details open> <summary>Technical Toolbox</summary> <div> <p style="display: inline-block;" align="center">
+<details> <summary>Technical Toolbox</summary> <div> <p style="display: inline-block;" align="center">
 <kbd>
   <kbd>Programming Languages</kbd>
   <br><br>
@@ -70,7 +70,7 @@
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="NumPy"/>
 </kbd>
 
-<br><br>
+<br>
 
 <kbd>
   <kbd>Hardware & Embedded Systems</kbd>
